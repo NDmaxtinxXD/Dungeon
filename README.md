@@ -5,7 +5,7 @@ Chào mừng bạn đến với dự án Game 2D kết hợp giữa thể loại
 Để trải nghiệm game trên máy tính cục bộ của bạn, hãy đảm bảo bạn đã cài đặt Node.js. Sau đó mở Terminal tại thư mục gốc của dự án và chạy câu lệnh sau:
 
 Bash
-npm run dev
+[npm run dev]
 Trình duyệt sẽ tự động mở hoặc cung cấp cho bạn một đường dẫn (thường là http://localhost:5173) để vào chơi ngay lập tức.
 
 ⌨️ Hướng dẫn điều khiển
